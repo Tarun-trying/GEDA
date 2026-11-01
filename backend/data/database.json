@@ -1,0 +1,174 @@
+{
+  "bills": [],
+  "districts": [
+    {
+      "id": "gandhinagar",
+      "name": "Gandhinagar",
+      "zone": "Capital Green Zone",
+      "rank": 1,
+      "lifeIndex": 94.2,
+      "co2OffsetTonnes": 18400,
+      "rooftopSolarMw": 28.5,
+      "rooftopCount": 14200,
+      "citizensEngaged": 38200,
+      "avgKwhPerHousehold": 178,
+      "highlight": "Lowest per-capita grid emissions in urban Gujarat"
+    },
+    {
+      "id": "surat",
+      "name": "Surat",
+      "zone": "South Gujarat Industrial Corridor",
+      "rank": 2,
+      "lifeIndex": 92.8,
+      "co2OffsetTonnes": 24100,
+      "rooftopSolarMw": 42.5,
+      "rooftopCount": 42500,
+      "citizensEngaged": 62500,
+      "avgKwhPerHousehold": 194,
+      "highlight": "Highest total residential rooftop solar PV installations"
+    },
+    {
+      "id": "ahmedabad",
+      "name": "Ahmedabad",
+      "zone": "Central Mega-Metropolitan",
+      "rank": 3,
+      "lifeIndex": 89.4,
+      "co2OffsetTonnes": 31800,
+      "rooftopSolarMw": 51.2,
+      "rooftopCount": 39100,
+      "citizensEngaged": 94100,
+      "avgKwhPerHousehold": 215,
+      "highlight": "Largest active Mission LiFE citizen community"
+    },
+    {
+      "id": "rajkot",
+      "name": "Rajkot",
+      "zone": "Saurashtra Hub",
+      "rank": 4,
+      "lifeIndex": 87.6,
+      "co2OffsetTonnes": 14200,
+      "rooftopSolarMw": 19.8,
+      "rooftopCount": 16800,
+      "citizensEngaged": 28400,
+      "avgKwhPerHousehold": 188,
+      "highlight": "Strong MSME & residential solar synergy"
+    },
+    {
+      "id": "vadodara",
+      "name": "Vadodara",
+      "zone": "Cultural Capital Zone",
+      "rank": 5,
+      "lifeIndex": 86.1,
+      "co2OffsetTonnes": 16900,
+      "rooftopSolarMw": 22.4,
+      "rooftopCount": 18200,
+      "citizensEngaged": 34700,
+      "avgKwhPerHousehold": 202,
+      "highlight": "Leading community solar pilots across RWAs"
+    },
+    {
+      "id": "mehsana",
+      "name": "Mehsana",
+      "zone": "North Gujarat Renewable Belt",
+      "rank": 6,
+      "lifeIndex": 84.5,
+      "co2OffsetTonnes": 11300,
+      "rooftopSolarMw": 15.6,
+      "rooftopCount": 11900,
+      "citizensEngaged": 19200,
+      "avgKwhPerHousehold": 182,
+      "highlight": "High agricultural & agro-solar conversion"
+    },
+    {
+      "id": "bhavnagar",
+      "name": "Bhavnagar",
+      "zone": "Coastal Energy Zone",
+      "rank": 7,
+      "lifeIndex": 82.9,
+      "co2OffsetTonnes": 9800,
+      "rooftopSolarMw": 12.1,
+      "rooftopCount": 9400,
+      "citizensEngaged": 16400,
+      "avgKwhPerHousehold": 191,
+      "highlight": "Pioneering coastal microgrid conservation"
+    },
+    {
+      "id": "jamnagar",
+      "name": "Jamnagar",
+      "zone": "Western Industrial Shoreline",
+      "rank": 8,
+      "lifeIndex": 81.3,
+      "co2OffsetTonnes": 8400,
+      "rooftopSolarMw": 10.5,
+      "rooftopCount": 8100,
+      "citizensEngaged": 14900,
+      "avgKwhPerHousehold": 208,
+      "highlight": "Emerging clean energy transition benchmarks"
+    }
+  ],
+  "challenges": [
+    {
+      "id": "lights-off",
+      "title": "Switch off unused lights",
+      "description": "Turn off lights and decorative lamps when leaving a room unoccupied for more than 3 minutes.",
+      "points": 10,
+      "impact": "~0.4 kWh saved per day",
+      "category": "Daily Habit",
+      "iconName": "Lightbulb"
+    },
+    {
+      "id": "standby-power",
+      "title": "Avoid standby power for unused devices",
+      "description": "Switch off the main plug socket for TVs, microwave ovens, chargers, and setup boxes to eliminate vampire draw.",
+      "points": 15,
+      "impact": "~8-10% reduction in base load",
+      "category": "Vampire Load",
+      "iconName": "PowerOff"
+    },
+    {
+      "id": "daylight-utilization",
+      "title": "Use daylight instead of lights when practical",
+      "description": "Open curtains and position study/work desks near windows to harness natural sunlight throughout daylight hours.",
+      "points": 10,
+      "impact": "Conserves 4-6 hours of fixture runtime",
+      "category": "Natural Energy",
+      "iconName": "Sun"
+    },
+    {
+      "id": "air-conditioner-opt",
+      "title": "Reduce unnecessary AC use",
+      "description": "Set your air conditioner thermostat to the BEE recommended 24°C or higher, and turn it off when room temperature stabilizes.",
+      "points": 20,
+      "impact": "~6% electricity saved per degree above 18°C",
+      "category": "High-Power Load",
+      "iconName": "Wind"
+    },
+    {
+      "id": "rooftop-solar-learning",
+      "title": "Learn about rooftop solar",
+      "description": "Explore rooftop solar feasibility, understand net-metering basics, and run the GreenSaathi solar potential estimator.",
+      "points": 15,
+      "impact": "Steps toward long-term zero carbon generation",
+      "category": "Renewables",
+      "iconName": "SunMedium"
+    }
+  ],
+  "activity": [],
+  "profile": {
+    "citizenName": "New Citizen",
+    "district": "Gandhinagar",
+    "sector": "Sector 7, Gandhinagar",
+    "consumerNumber": "",
+    "discom": "UGVCL (Uttar Gujarat Vij Company Ltd)",
+    "totalPoints": 0,
+    "completedChallenges": [],
+    "activeMonthlyKwh": 0,
+    "activeMonthlyBill": 0
+  },
+  "meta": {
+    "engine": "GreenSaathi File-Backed JSON DB",
+    "version": "1.0.0",
+    "wipedAt": "2026-10-31T22:19:00.000Z",
+    "lastUpdated": "2026-10-31T22:19:00.000Z"
+  }
+}
